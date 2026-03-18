@@ -1,0 +1,103 @@
+Dưới đây là nội dung đã được làm sạch, loại bỏ các ký tự rác của Wikipedia và định dạng lại một cách khoa học để bạn có thể dễ dàng đưa vào database dưới dạng file .txt.
+
+THÔNG TIN TỔNG QUAN: TRƯỜNG ĐẠI HỌC BÁCH KHOA – ĐHQG TP.HCM
+
+1. Thông tin chung
+
+Tên tiếng Việt: Trường Đại học Bách khoa, Đại học Quốc gia Thành phố Hồ Chí Minh
+
+Tên tiếng Anh: Ho Chi Minh City University of Technology (HCMUT)
+
+Tên cũ: Trung tâm Quốc gia Kỹ thuật (1957), Học viện Quốc gia Kỹ thuật (1972), Trường Đại học Kỹ thuật (1974)
+
+Khẩu hiệu: Khai phóng, Tiên phong, Sáng tạo
+
+Loại hình: Đại học kỹ thuật công lập (Trọng điểm quốc gia)
+
+Hiệu trưởng: GS.TS. Mai Thanh Phong
+
+Website: www.hcmut.edu.vn
+
+Màu sắc nhận diện: Xanh da trời, Xanh nước biển
+
+2. Địa chỉ và Cơ sở
+
+Cơ sở 1: 268 Lý Thường Kiệt, Phường 14, Quận 10, TP. Hồ Chí Minh (Diện tích: 14 Hecta)
+
+Cơ sở 2: Khu đô thị Đại học Quốc gia TP.HCM, Phường Đông Hòa, Dĩ An, Bình Dương (Diện tích: 26 Hecta)
+
+3. Lịch sử hình thành
+
+1957: Thành lập Trung tâm Quốc gia Kỹ thuật (gồm các trường: Công chánh, Vô tuyến điện, Hàng hải, Thương mại).
+
+1972: Đổi tên thành Học viện Quốc gia Kỹ thuật.
+
+1974: Sáp nhập vào Viện Đại học Bách khoa Thủ Đức, tên gọi là Trường Đại học Kỹ thuật.
+
+1976: Thủ tướng ký quyết định đổi tên thành Trường Đại học Bách khoa TP.HCM (27/10/1976 trở thành ngày thành lập trường).
+
+1996: Trở thành thành viên của Đại học Quốc gia TP.HCM.
+
+2005: Nhận danh hiệu "Anh hùng Lao động trong thời kỳ đổi mới".
+
+4. Thống kê đào tạo và Nhân sự (Cập nhật 2024 - 2025)
+
+Sinh viên đại học: Hơn 23.000
+
+Học viên cao học: Hơn 2.100
+
+Nghiên cứu sinh: Gần 300
+
+Đội ngũ giảng viên: 698 người
+
+Giáo sư: 14
+
+Phó Giáo sư: 128
+
+Tiến sĩ/TSKH: 266
+
+Thạc sĩ: 248
+
+Cơ sở vật chất: 256 phòng học, 316 phòng thí nghiệm, 26 xưởng thực tập.
+
+5. Các Khoa và Văn phòng Đào tạo
+
+Khoa Cơ khí
+
+Khoa Công nghệ Vật liệu
+
+Khoa Điện – Điện tử
+
+Khoa Khoa học Ứng dụng
+
+Khoa Khoa học và Kỹ thuật Máy tính
+
+Khoa Kỹ thuật Địa chất và Dầu khí
+
+Khoa Kỹ thuật Giao thông
+
+Khoa Kỹ thuật Hóa học
+
+Khoa Kỹ thuật Xây dựng
+
+Khoa Môi trường và Tài nguyên
+
+Khoa Quản lý Công nghiệp
+
+Văn phòng Đào tạo Quốc tế (OISP)
+
+6. Chương trình đào tạo
+
+Bậc Kỹ sư: Khoa học máy tính, Kỹ thuật hóa học, Cơ khí, Điện – Điện tử, Xây dựng, Môi trường, Địa chất – Dầu khí, Giao thông, Vật liệu.
+
+Bậc Kiến trúc sư: Kiến trúc dân dụng và Công nghiệp.
+
+Bậc Cử nhân: Quản lý công nghiệp, Quản trị kinh doanh.
+
+Sau đại học: Đào tạo Thạc sĩ và Tiến sĩ ở hầu hết các lĩnh vực kỹ thuật, công nghệ và quản trị.
+
+7. Kiểm định và Thành tích
+
+Kiểm định quốc tế: Là trường đầu tiên tại Việt Nam đạt chuẩn HCERES (Pháp) và AUN-QA (Đông Nam Á). Đạt chuẩn ABET (Hoa Kỳ) cho ngành Khoa học và Kỹ thuật máy tính.
+
+Giải thưởng: 3 lần vô địch Robocon Châu Á – Thái Bình Dương (2002, 2004, 2006). Nhận Huân chương Độc lập hạng Nhất, Nhì, Ba.
